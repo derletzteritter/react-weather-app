@@ -1,3 +1,14 @@
+# Weather app created with ReactJs
+
+Preview:
+https://jolly-visvesvaraya-65508d.netlify.app/
+
+Enjoy
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
